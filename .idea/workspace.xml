@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c37f9f97-ede5-475d-9247-423152009aec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asmfinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/BorrowResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/BorrowSlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/DesignAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/FacultyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/GuestReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/SeniorReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/model/StudentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/strategy/CharityFeePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/strategy/LateFeePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/strategy/StandardFeePolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/strategy/WaivedFeePolicy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EngLOJHsNbjmxURAWG7mRvZkcU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/pc/IdeaProjects/asmfinal/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c37f9f97-ede5-475d-9247-423152009aec" name="Changes" comment="" />
+      <created>1780819691019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780819691019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
